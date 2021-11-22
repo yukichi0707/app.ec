@@ -29,3 +29,7 @@ https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4
 
 フロント追加　参考
 https://qiita.com/tpywao/items/bd119f0075e40d47c88b
+
+
+Laravel入門
+https://www.webopixel.net/php/1663.html
